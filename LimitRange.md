@@ -1,3 +1,4 @@
+<pre>
 apiVersion: v1
 kind: LimitRange
 metadata:
@@ -11,3 +12,4 @@ spec:
       cpu: .5
       memory: 100Mi
     type: Container
+</pre>
