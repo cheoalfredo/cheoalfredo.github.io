@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[LimitRange](https://github.com/cheoalfredo/cheoalfredo.github.io/edit/master/LimitRange.md) : resource limit to apply  namespace (kubectl create -f LimitRange.yaml -n mynamespace)
+[LimitRange](LimitRange.md) : resource limit to apply  namespace (kubectl create -f LimitRange.yaml -n mynamespace)
 
 You can use the [editor on GitHub](https://github.com/cheoalfredo/cheoalfredo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
